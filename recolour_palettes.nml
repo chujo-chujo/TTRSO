@@ -1,0 +1,25 @@
+PALETTE_CC_DARK_BLUE    775     // dark blue
+PALETTE_CC_PALE_GREEN   776     // pale green
+PALETTE_CC_PINK         777     // pink
+PALETTE_CC_YELLOW       778     // yellow
+PALETTE_CC_RED          779     // red
+PALETTE_CC_LIGHT_BLUE   780     // light blue
+PALETTE_CC_GREEN        781     // green
+PALETTE_CC_DARK_GREEN   782     // dark green
+PALETTE_CC_BLUE         783     // blue
+PALETTE_CC_CREAM        784     // cream
+PALETTE_CC_MAUVE        785     // mauve
+PALETTE_CC_PURPLE       786     // purple
+PALETTE_CC_ORANGE       787     // orange
+PALETTE_CC_BROWN        788     // brown
+PALETTE_CC_GREY         789     // grey
+PALETTE_CC_WHITE        790     // white
+
+
+PALETTE_STRUCT_BLUE     795     // blue
+PALETTE_STRUCT_BROWN    796     // brown
+PALETTE_STRUCT_WHITE    797     // white
+PALETTE_STRUCT_RED      798     // red
+PALETTE_STRUCT_GREEN    799     // green
+PALETTE_STRUCT_CONCRETE 800     // concrete
+PALETTE_STRUCT_YELLOW   801     // yellow
