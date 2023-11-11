@@ -1,0 +1,16 @@
++---------------------------------------+
+| TOTAL TOWN REPLACEMENT SET AS OBJECTS |
++---------------------------------------+
+
+
+ === Changelog ===
+
+
+v1.1 (2023-11-11)
+->  Fixed overlapping tiles of 1x2 and 2x2 buildings
+->  Fixed a snowy sprite on grassy ground
+->  Fixed a cycling pixel on mosques
+
+
+v1.0 (2023-11-07)
+->  Initial release
